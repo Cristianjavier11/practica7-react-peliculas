@@ -1,16 +1,23 @@
-# React + Vite
+# Práctica 7 - App de Películas con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrante
+- Cristian Javier Padilla Cornejo
 
-Currently, two official plugins are available:
+## Descripción
+Aplicación web desarrollada con React y Vite que consume la API de TMDB para mostrar un listado de películas populares y una vista de detalle por cada película.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Objetivo
+Desarrollar una aplicación web moderna implementando componentes, consumo de API, navegación con React Router y despliegue en Netlify.
 
-## React Compiler
+## Tecnologías
+- React
+- Vite
+- React Router DOM
+- CSS
+- TMDB API
+- GitHub
+- Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Instalación
+npm install
+npm run dev
